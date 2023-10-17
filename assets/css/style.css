@@ -1,0 +1,20 @@
+/* Styles for the grid of the calculator */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1em;
+}
+
+/*styles for the buttons */
+
+#calculator-buttons .btn {
+    width: 100%;
+
+}
+
+H1 {
+    text-decoration: underline;
+}
+body {
+    background-color: rgb(234, 203, 224);
+}
